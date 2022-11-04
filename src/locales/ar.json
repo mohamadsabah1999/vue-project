@@ -1,0 +1,54 @@
+{
+    "index": {
+        "components": {
+            "appbar": {
+                "items": {
+                    "urls": {
+                        "home": "الرئيسية",
+                        "pricing": "الاسعار",
+                        "logout": "تسجيل الخروج",
+                        "admin_panel": "لوحة المدير"
+                    }
+                },
+                "titles": {
+                    "home_page": "الصفحة الرئيسة",
+                    "login_page": "تسجيل الدخول",
+                    "pricing_page": "صفحة الاسعار",
+                    "register_page": "صفحة التسجيل",
+                    "password_forgot_form": "اعادة تعيين كلمة السر",
+                    "password_forgot_confirm": "تغيير كلمة السر"
+                }
+            }
+        }
+    },
+    "home": {},
+    "login": {
+        "login": "تسجيل الدخول",
+        "or_be_classical": "او كن كلاسيكياً",
+        "username": "اسم المستخدم",
+        "password": "كلمة السر",
+        "lets_go": "انطلق!",
+        "forgot_your_password": "نسيت كلمة السر؟",
+        "rules": {
+            "password": {
+                "required": "كلمة السر مطلوبة",
+                "length": "كلمة السر يجب ان تحتوي ٨ حروف على الاقل."
+            },
+            "username": {
+                "required": "الاسم المستخدم مطلوب",
+                "valid": "يجب أن يتكون اسم المستخدم من 5 أحرف وأرقام على الأقل ، ولا يمكن أن يبدأ برقم"
+            }
+        },
+        "errors": {
+            "internet_error": "حدث خطأ ما, تأكد من انك متصل بالانترنت."
+        }
+    },
+    "register": {},
+    "password-reset": {},
+    "password-reset-conform": {},
+    "pricing": {},
+    "404": {
+        "page_not_found": "لم يتم العثور على الصفحة :(",
+        "get_me_out": "اخرجني من هنا"
+    }
+}

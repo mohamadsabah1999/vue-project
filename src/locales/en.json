@@ -1,0 +1,54 @@
+{
+  "index": {
+    "components": {
+      "appbar": {
+        "items": {
+          "urls": {
+            "home": "Home",
+            "pricing": "Pricing",
+            "logout": "Logout",
+            "admin_panel": "Admin Panel"
+          }
+        },
+        "titles": {
+          "home_page": "Home page",
+          "login_page": "Login page",
+          "pricing_page": "Pricing page",
+          "register_page": "Register page",
+          "password_forgot_form": "Password reset",
+          "password_forgot_confirm": "Password change"
+        }
+      }
+    }
+  },
+  "home": {},
+  "login": {
+    "login": "Login",
+    "or_be_classical": "Or Be Classical",
+    "username": "Username",
+    "password": "Password",
+    "lets_go": "Let's go!",
+    "forgot_your_password": "Forgot your password?",
+    "rules": {
+      "password": {
+        "required": "Password is required",
+        "length": "Password must contain at least eight characters."
+      },
+      "username": {
+        "required": "Username is required",
+        "valid": "Username is must consists of at least 5 letters and numbers, and can't start with a number"
+      }
+    },
+    "errors": {
+      "internet_error": "An error has occurred, make sure you are connected to the internet."
+    }
+  },
+  "register": {},
+  "password-reset": {},
+  "password-reset-conform": {},
+  "pricing": {},
+  "404": {
+    "page_not_found": "Page not found :(",
+    "get_me_out": "Get me out of here"
+  }
+}
